@@ -63,23 +63,11 @@ The project demonstrates a complete end-to-end ML workflow including text prepro
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
-
-### 🔹 Spam vs Ham Distribution
-![Spam Distribution](images/spam_distribution.png)
-
-### 🔹 Word Frequency Visualization
-![Word Frequency](images/word_frequency.png)
-
-### 🔹 TF-IDF Feature Representation
-![TF-IDF](images/tfidf_visual.png)
-
-> 📌 *Note: Add your actual graph images inside an `images/` folder in your repository.*
 
 ---
 
 ## 📈 Model Performance
-- **Accuracy Score:** (Add your score here)
+- **Accuracy Score:** 95.33%
 
 Optional metrics you can include:
 - Precision
